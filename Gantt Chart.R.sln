@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "Gantt Chart.R", "Gantt Chart.R\Gantt Chart.R.rxproj", "{B2E820A6-92FA-4B7F-9D26-36D5461AF1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E820A6-92FA-4B7F-9D26-36D5461AF1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E820A6-92FA-4B7F-9D26-36D5461AF1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E820A6-92FA-4B7F-9D26-36D5461AF1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E820A6-92FA-4B7F-9D26-36D5461AF1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7518CC1-7507-418B-8C88-2F59AA6F52A3}
+	EndGlobalSection
+EndGlobal
