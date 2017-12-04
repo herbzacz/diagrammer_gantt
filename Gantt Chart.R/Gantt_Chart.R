@@ -1,3 +1,5 @@
+#install.packages("DiagrammeR")
+
 library(DiagrammeR)
 
 mermaid(
