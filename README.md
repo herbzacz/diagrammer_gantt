@@ -1,4 +1,4 @@
-# diagrammer_gantt
+# diagrammer_gantt [R]
 How to create a gantt chart in R
 
 
